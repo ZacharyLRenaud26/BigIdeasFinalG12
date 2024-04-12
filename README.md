@@ -12,7 +12,7 @@ Poojan Patel:
 dogPRP.ipynb
 prp120@pitt.edu
 Data set: https://data.wprdc.org/dataset/allegheny-county-dog-licenses/resource/f8ab32f7-44c7-43ca-98bf-c1b444724598
-Description: A dataset of every dog with a license in Allegheny County and the zip code of their owner. Shown by code that calculates the zip code ith the most dogs and creates a bar graph with each zip code and how many dogs it has.
+Description: A dataset of every food code vioaltion in Allegheny County and the zip code of their occurences. Shown by code that calculates the zip code with the most violations and creates a bar graph with each zip code and how many violations it has.
 
 
 Jackson Pruksarnukul:
